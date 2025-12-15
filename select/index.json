@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "the Hole",
+  "base_artist": "r-906",
+  "createdAt": "2025-12-15T16:24:46.498144Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ace In The Hole",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_Ace_In_The_Hole_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ace In The Hole (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_Ace_In_The_Hole_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ace In The Hole (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/03_Ace_In_The_Hole_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Hole",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/04_The_Hole_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fire in the Hole",
+      "artist": "Earl Sweatshirt",
+      "has_synced": true,
+      "path": "select/05_Fire_in_the_Hole_Earl_Sweatshirt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drilling the Hole",
+      "artist": "Christian Death",
+      "has_synced": false,
+      "path": "select/06_Drilling_the_Hole_Christian_Death.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jam It in the Hole",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/07_Jam_It_in_the_Hole_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ace In the Hole",
+      "artist": "Bobby Darin",
+      "has_synced": false,
+      "path": "select/08_Ace_In_the_Hole_Bobby_Darin.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "30 Days in the Hole",
+      "artist": "Great White",
+      "has_synced": false,
+      "path": "select/09_30_Days_in_the_Hole_Great_White.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "30 Days In The Hole - Remastered Version",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/10_30_Days_In_The_Hole_-_Remastered_Version_Mr._Big.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "30 Days In The Hole - Remastered Version (Remastered Version)",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/11_30_Days_In_The_Hole_-_Remastered_Version_(Remastered_Version)_Mr._Big.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fire In The Hole",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/12_Fire_In_The_Hole_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Hole You're In",
+      "artist": "TNT",
+      "has_synced": false,
+      "path": "select/13_The_Hole_You're_In_TNT.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In the Hole",
+      "artist": "Armored Saint",
+      "has_synced": true,
+      "path": "select/14_In_the_Hole_Armored_Saint.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Deep In the Hole",
+      "artist": "Masters of Reality",
+      "has_synced": true,
+      "path": "select/15_Deep_In_the_Hole_Masters_of_Reality.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fire in the Hole",
+      "artist": "Laaz Rockit",
+      "has_synced": true,
+      "path": "select/16_Fire_in_the_Hole_Laaz_Rockit.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fire in the Hole (Live)",
+      "artist": "Laaz Rockit",
+      "has_synced": false,
+      "path": "select/17_Fire_in_the_Hole_(Live)_Laaz_Rockit.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Nothing Fills the Hole",
+      "artist": "Marillion",
+      "has_synced": true,
+      "path": "select/18_Nothing_Fills_the_Hole_Marillion.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "the Hole (feat. 足立レイ)",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/pl_01_the_Hole_(feat._足立レイ)_r-906.txt"
+    }
+  ]
+}
